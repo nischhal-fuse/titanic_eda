@@ -79,6 +79,6 @@ The notebook `train_titanic.ipynb` contains the step-by-step workflow:
 
 ---
 
-#FeedBack:
-
+# FeedBack:
+This file clearly outlines the objective of using descriptive statistics and visualizations to find patterns and inform predictive modeling. The file's structure is well-organized with sections for key insights on passenger class, fares, gender, and family size, as well as a concluding summary and a breakdown of the technical workflow.
 ---
